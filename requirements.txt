@@ -1,4 +1,4 @@
 gensim==3.6.0
 jieba==0.39
-tqdm==4.26.0
+tqdm==4.66.3
 tensorboardX==1.4
